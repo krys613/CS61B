@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="080839d7-2ab7-4ae8-802d-5b7cf96fb39d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Intlist/IntList.java" beforeDir="false" afterPath="$PROJECT_DIR$/Intlist/IntList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,6 +15,7 @@
     <session id="1814259284">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -161,7 +162,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1585732142055" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1585750296826" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="SDKs" />
@@ -247,7 +248,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585703563136</updated>
-      <workItem from="1585703564393" duration="7517000" />
+      <workItem from="1585703564393" duration="7812000" />
     </task>
     <servers />
   </component>
@@ -284,10 +285,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7517000" />
+    <option name="totallyTimeSpent" value="7812000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="532" y="0" width="908" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
@@ -295,7 +296,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17083333" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2709251" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Messages" weight="0.32902467" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
@@ -305,7 +306,7 @@
       <window_info anchor="bottom" id="Style Checker" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27497062" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.27497062" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.2972973" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
