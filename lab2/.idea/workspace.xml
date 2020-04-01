@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="080839d7-2ab7-4ae8-802d-5b7cf96fb39d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intlist/IntList.java" beforeDir="false" afterPath="$PROJECT_DIR$/Intlist/IntList.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -36,12 +35,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="497" />
+          <entry key="java" value="545" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="497" />
+          <entry key="JAVA" value="545" />
         </counts>
       </usages-collector>
     </session>
@@ -60,8 +59,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Intlist/IntList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="449">
-              <caret line="105" column="28" selection-start-line="105" selection-start-column="28" selection-end-line="105" selection-end-column="28" />
+            <state relative-caret-position="374">
+              <caret line="100" column="31" selection-start-line="100" selection-start-column="31" selection-end-line="100" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -162,7 +161,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1585731556645" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1585732142055" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="SDKs" />
@@ -248,14 +247,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585703563136</updated>
-      <workItem from="1585703564393" duration="7259000" />
+      <workItem from="1585703564393" duration="7517000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="IntListTest - 2020.04.01 at 15h 07m 00s.xml">
-      <configuration name="IntListTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="IntListTest - 2020.04.01 at 15h 10m 08s.xml">
       <configuration name="IntListTest" configurationId="JUnit" />
     </history-entry>
@@ -283,9 +279,12 @@
     <history-entry file="IntListTest - 2020.04.01 at 16h 27m 24s.xml">
       <configuration name="IntListTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="IntListTest - 2020.04.01 at 16h 59m 18s.xml">
+      <configuration name="IntListTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7259000" />
+    <option name="totallyTimeSpent" value="7517000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -387,15 +386,15 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Intlist/IntList.java</url>
-          <line>87</line>
+          <line>101</line>
           <properties />
-          <option name="timeStamp" value="19" />
+          <option name="timeStamp" value="21" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Intlist/IntList.java</url>
-          <line>88</line>
+          <line>85</line>
           <properties />
-          <option name="timeStamp" value="20" />
+          <option name="timeStamp" value="22" />
         </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
@@ -463,8 +462,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Intlist/IntList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="449">
-          <caret line="105" column="28" selection-start-line="105" selection-start-column="28" selection-end-line="105" selection-end-column="28" />
+        <state relative-caret-position="374">
+          <caret line="100" column="31" selection-start-line="100" selection-start-column="31" selection-end-line="100" selection-end-column="31" />
         </state>
       </provider>
     </entry>
